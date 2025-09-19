@@ -50,3 +50,7 @@ Thumbs.db
 *.ipa
 *.xcodeproj
 *.xcworkspace
+
+# Build system
+obj/
+Logs/
